@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7AE907A7-34C5-40C9-A252-7B60FC4E8D56}|Modul4_103022300025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AE907A7-34C5-40C9-A252-7B60FC4E8D56}|Modul4_103022300025.csproj|d:\\jurnalmod3\\modul4_103022300025\\fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE907A7-34C5-40C9-A252-7B60FC4E8D56}|Modul4_103022300025.csproj|solutionrelative:fanlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AE907A7-34C5-40C9-A252-7B60FC4E8D56}|Modul4_103022300025.csproj|d:\\jurnalmod3\\modul4_103022300025\\kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AE907A7-34C5-40C9-A252-7B60FC4E8D56}|Modul4_103022300025.csproj|solutionrelative:kodeproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FanLaptop.cs",
+              "DocumentMoniker": "D:\\jurnalmod3\\Modul4_103022300025\\FanLaptop.cs",
+              "RelativeDocumentMoniker": "FanLaptop.cs",
+              "ToolTip": "D:\\jurnalmod3\\Modul4_103022300025\\FanLaptop.cs",
+              "RelativeToolTip": "FanLaptop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:33:09.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodeProduk.cs",
               "DocumentMoniker": "D:\\jurnalmod3\\Modul4_103022300025\\KodeProduk.cs",
               "RelativeDocumentMoniker": "KodeProduk.cs",
@@ -30,8 +47,7 @@
               "RelativeToolTip": "KodeProduk.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T23:54:07.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T23:54:07.953Z"
             },
             {
               "$type": "Document",
@@ -39,9 +55,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\jurnalmod3\\Modul4_103022300025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\jurnalmod3\\Modul4_103022300025\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\jurnalmod3\\Modul4_103022300025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T23:42:58.94Z",
               "EditorCaption": ""
